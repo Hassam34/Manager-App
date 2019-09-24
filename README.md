@@ -45,9 +45,10 @@ react-native run-ios
 * if you want to see project demo open the following link for video demo it will help you.
 https://drive.google.com/open?id=1-2UIOLi2TnJdkgdm40QQc7Yh1Q_7aM6H
 
-* for contact
-mail: hassam86.hy@gmail.com
+##### if you find difficulty to run i can also setup this app by TeamViewer
 
+* for contact:
+mail: hassam86.hy@gmail.com
 
 ## Author
 
