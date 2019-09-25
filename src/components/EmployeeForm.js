@@ -19,7 +19,7 @@ class EmployeeFrom extends React.Component{
         </CardSection>
         <CardSection>
             <Input label='Cell no :'
-            placeholder='+92 *** *******'
+            placeholder='+1 *** *******'
             value={this.props.phone}
             onChangeText={value=> this.props.employeeUpdate({prop:'phone', value})}
            />
